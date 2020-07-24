@@ -1,5 +1,7 @@
 <?php
 
-echo "treinando 321";
+echo "treinando 456";
+
+echo "treino 321";
 
 ?>
